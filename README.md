@@ -1,4 +1,4 @@
-# Future Intern Internship Program - Incident Response  
+# Future Intern Internship - Incident Response  
 
 ## Overview  
 This repository contains an **Incident Response Report** detailing the investigation of two cybersecurity incidents at **Servidae Industries** as part of the **Future Intern Internship Program**. The incidents involved a **simulated DDoS attack** and a **phishing-based workstation compromise**.  
